@@ -98,7 +98,7 @@ body{
 
 .home{
     display: flex;
-    background: url('/Resume/images/homeblack.png') no-repeat center;
+    background: url('/images/homeblack.png') no-repeat center;
     height: 100vh;
     background-size: contain;
     /* background-attachment: fixed; */
